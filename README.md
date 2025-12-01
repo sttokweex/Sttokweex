@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Привет! Я Кирилл — Frontend Developer
 
-<!--
-**sttokweex/Sttokweex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой GitHub!  
+У меня **3 года опыта в разработке интерфейсов**, и я обожаю создавать удобные, быстрые и масштабируемые веб-приложения.
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
+- 💻 Специализируюсь на **Frontend-разработке**
+- ⚛️ Основной стек: **React, TypeScript, Redux, MobX**
+- 🧩 Люблю прорабатывать архитектуру, оптимизировать рендер и следить за UX
+- 🛠 Работаю с современными инструментами и практиками разработки
+- 📈 Нравится развивать продукт, предлагать идеи и улучшения
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Технологии и инструменты
+Вот то, с чем я работаю в реальных проектах:
+
+### **Frontend**
+- React / React Hooks  
+- TypeScript  
+- Redux Toolkit / MobX  
+- React Query / SWR  
+- Next.js  
+- Zustand  
+- React Router  
+- Axios / Fetch  
+- Webpack / Vite  
+- TailwindCSS / SCSS / Styled Components  
+- ESLint / Prettier  
+
+### **Архитектура и практики**
+- Feature-Sliced Design (FSD)  
+- Clean Architecture подходы  
+- модульное и интеграционное тестирование (Jest, React Testing Library)
+
+### **Backend & смежные вещи**
+- Node.js (Express / NestJS — базовый уровень)  
+- REST API  
+- Docker (на уровне сборки dev окружения)  
+- Git / CI/CD  
+
+## 📊 Статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sttokweex&show_icons=true&theme=tokyonight)
+
+## 📬 Контакты
+Если хочешь обсудить проект, сотрудничество или просто пообщаться — всегда рад!
+
+- ✉️ Email: **karikovks@yandex.ru**  
+- 💬 Telegram: **[@Sttokweex](https://t.me/Sttokweex)**
+
+---
+
+Спасибо, что заглянул! 😊
