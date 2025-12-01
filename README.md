@@ -26,7 +26,7 @@
 
 ### ⭐ Основной стек
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,mobx,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,nextjs,vite" />
 </p>
 
 ### 🎨 UI / Стили / Анимации
