@@ -55,30 +55,47 @@ Frontend-разработчик с **3 годами опыта**, фокусир
 ---
 
 <details>
-  <summary><b>📊 GitHub Статистика</b> (нажми чтобы открыть)</summary>
+  <summary>
+    <b>📊 GitHub Dashboard</b>
+    <img src="https://raw.githubusercontent.com/KernelPanicBlog/animated-icons/main/arrow-down-animated.svg" width="22" style="vertical-align: middle; margin-left: 4px;" />
+  </summary>
+
   <br>
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sttokweex&theme=tokyonight" />
-  </p>
+  <!-- DASHBOARD GRID -->
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sttokweex&theme=tokyonight" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sttokweex&theme=tokyonight" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=sttokweex&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sttokweex&theme=tokyonight" />
-  </p>
+  <br>
 
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=sttokweex&theme=tokyonight&hide_border=true" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sttokweex&theme=tokyonight" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sttokweex&theme=tokyonight" />
-  </p>
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sttokweex&theme=tokyonight" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sttokweex&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 
 </details>
+
 
 
 
