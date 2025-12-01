@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Привет! Я Кирилл — Frontend Developer</h1>
+<h1 align="center">👋 Привет! Я Кирилл (sttokweex) — Frontend Developer</h1>
 
 <p align="center">
   <strong>3 года опыта • React • TypeScript • Архитектура • UI/UX • Оптимизация</strong>
@@ -31,8 +31,7 @@ Frontend-разработчик с **3 годами опыта**, фокусир
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </p>
 
-### 🧩 State-менеджмент (иконок нет — добавлены стильные бейджи)
-### 🧩 State-менеджмент 
+### 🧩 State-менеджмент
 <p align="left">
   <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white" />
@@ -58,7 +57,6 @@ Frontend-разработчик с **3 годами опыта**, фокусир
 <details>
   <summary>
     <b>📊 GitHub stats</b>
-
   </summary>
 
   <br>
@@ -97,15 +95,30 @@ Frontend-разработчик с **3 годами опыта**, фокусир
 
 </details>
 
+---
 
+<details>
+  <summary>
+    <b>🏆 Codewars stats</b>
+  </summary>
 
+  <br>
 
+  <p align="center">
+    <img src="https://www.codewars.com/users/Sttokweex/badges/large" />
+  </p>
+
+  <p align="center">
+    <a href="https://www.codewars.com/users/Sttokweex" target="_blank">Мой профиль на Codewars →</a>
+  </p>
+
+</details>
 
 ---
 
 ## 📬 Контакты
 **Email:** karikovks@yandex.ru  
-**Telegram:** https://t.me/Sttokweex
+**Telegram:** [@Sttokweex](https://t.me/Sttokweex)  
 
 ---
 
