@@ -57,6 +57,9 @@ Frontend-разработчик с **3 годами опыта**, фокусир
 ## 📊 GitHub Статистика
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sttokweex&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sttokweex&theme=tokyonight&hide_border=true" />
 </p>
 
