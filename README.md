@@ -54,26 +54,32 @@ Frontend-разработчик с **3 годами опыта**, фокусир
 
 ---
 
-## 📊 GitHub Статистика
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sttokweex&theme=tokyonight" />
-</p>
+<details>
+  <summary><b>📊 GitHub Статистика</b> (нажми чтобы открыть)</summary>
+  <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sttokweex&theme=tokyonight" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sttokweex&theme=tokyonight" />
+  </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sttokweex&theme=tokyonight&hide_border=true" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sttokweex&theme=tokyonight" />
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sttokweex&theme=tokyonight" />
-</p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=sttokweex&theme=tokyonight&hide_border=true" />
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sttokweex&theme=tokyonight" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sttokweex&theme=tokyonight" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sttokweex&theme=tokyonight" />
+  </p>
+
+</details>
+
 
 
 
