@@ -1,8 +1,8 @@
 <!-- HEADER -->
-<h1 align="center">👋 Привет! Я Кирилл (sttokweex) — Frontend Developer</h1>
+<h1 align="center">👋 Hi! I'm Kirill — Frontend Developer</h1>
 
 <p align="center">
-  <strong>3 года опыта • React • TypeScript • Архитектура • UI/UX • Оптимизация</strong>
+  <strong>3 years of experience • React • TypeScript • Architecture • UI/UX • Optimization</strong>
 </p>
 
 <p align="center">
@@ -12,26 +12,26 @@
 
 ---
 
-## 🚀 Обо мне
-Frontend-разработчик с **3 годами опыта**, фокусируюсь на создании быстрых, понятных и поддерживаемых интерфейсов.  
-Люблю чистую архитектуру, продуманный UX и современный стек.
+## 🚀 About Me
+Frontend developer with **3 years of experience**, focused on building fast, clear, and maintainable interfaces.  
+I enjoy clean architecture, thoughtful UX, and modern tech stacks.
 
 ---
 
-## 🧰 Технологии
+## 🧰 Technologies
 
-### ⭐ Основной стек
+### ⭐ Core Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,redux,nextjs,vite,webpack" />
 </p>
 
-### 🎨 UI / Стили / Анимации
+### 🎨 UI / Styling / Animations
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,scss" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </p>
 
-### 🧩 State-менеджмент
+### 🧩 State Management
 <p align="left">
   <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white" />
@@ -39,7 +39,7 @@ Frontend-разработчик с **3 годами опыта**, фокусир
   <img src="https://img.shields.io/badge/Zustand-323232?style=flat&logo=react&logoColor=white" />
 </p>
 
-### 🛠 Tools & Архитектура
+### 🛠 Tools & Architecture
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,jest" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
@@ -105,21 +105,18 @@ Frontend-разработчик с **3 годами опыта**, фокусир
   <br>
 
   <p align="center">
-    <!-- Основная большая карточка -->
+    <!-- Main large badge -->
     <img src="https://www.codewars.com/users/sttokweex/badges/large" />
   </p>
 
-
-
 </details>
-
 
 ---
 
-## 📬 Контакты
+## 📬 Contacts
 **Email:** karikovks@yandex.ru  
 **Telegram:** [@Sttokweex](https://t.me/Sttokweex)  
 
 ---
 
-<p align="center">🟣 Спасибо, что заглянул! Хорошего дня 😊</p>
+<p align="center">🟣 Thanks for visiting! Have a great day 😊</p>
