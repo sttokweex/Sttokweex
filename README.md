@@ -1,8 +1,8 @@
-<!-- === PROFILE HEADER === -->
+<!-- HEADER -->
 <h1 align="center">👋 Привет! Я Кирилл — Frontend Developer</h1>
 
 <p align="center">
-  <strong>3 года опыта разработки интерфейсов • React • TypeScript • Архитектура • UI/UX </strong>
+  <strong>3 года опыта • React • TypeScript • Архитектура • UI/UX • Оптимизация</strong>
 </p>
 
 <p align="center">
@@ -12,44 +12,49 @@
 
 ---
 
-<!-- === ABOUT === -->
-
 ## 🚀 Обо мне
-Я занимаюсь frontend-разработкой уже **3 года**. Предпочитаю создавать быстрые, масштабируемые и удобные интерфейсы.  
-Люблю продумывать архитектуру, оптимизировать рендеринг и улучшать качество кода.
+Frontend-разработчик с **3 годами опыта**, фокусируюсь на создании быстрых, понятных и поддерживаемых интерфейсов.  
+Люблю чистую архитектуру, продуманный UX и современный стек.
 
 ---
 
-<!-- === MINI ICONS TECH === -->
-
-## 🧰 Стек и технологии
+## 🧰 Технологии
 
 ### ⭐ Основной стек
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,nextjs,vite,webpack" />
 </p>
 
 ### 🎨 UI / Стили / Анимации
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,scss,styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=tailwind,scss" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </p>
 
-### 🛠 Инструменты и экосистема
+### 🧩 State-менеджмент (иконок нет — добавлены стильные бейджи)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=webpack,git,eslint,prettier,jest" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-323232?style=flat&logo=react&logoColor=white" />
 </p>
 
-### 🌐 Backend & DevOps (базово)
+### 🛠 Tools & Архитектура
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,jest" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7BA3E?style=flat&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/FSD_Architecture-000?style=flat&logo=vercel&logoColor=white" />
+</p>
+
+### 🌐 Backend & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
 </p>
 
 ---
 
-<!-- === GITHUB STATS === -->
-
 ## 📊 GitHub Статистика
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sttokweex&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sttokweex&theme=tokyonight&hide_border=true" />
@@ -61,16 +66,10 @@
 
 ---
 
-<!-- === CONTACT === -->
-
 ## 📬 Контакты
-Если хочешь обсудить проект, коллаборацию или пообщаться — пиши!
-
-**📨 Email:** karikovks@yandex.ru  
-**💬 Telegram:** [@Sttokweex](https://t.me/Sttokweex)
+**Email:** karikovks@yandex.ru  
+**Telegram:** https://t.me/Sttokweex
 
 ---
 
-<p align="center">
-  <i>Спасибо, что заглянул в мой профиль! 🚀</i>
-</p>
+<p align="center">🟣 Спасибо, что заглянул! Хорошего дня 😊</p>
