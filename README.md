@@ -105,14 +105,16 @@ Frontend-разработчик с **3 годами опыта**, фокусир
   <br>
 
   <p align="center">
+    <!-- Основная большая карточка -->
     <img src="https://www.codewars.com/users/Sttokweex/badges/large" />
   </p>
 
   <p align="center">
-    <a href="https://www.codewars.com/users/Sttokweex" target="_blank">Мой профиль на Codewars →</a>
+    <a href="https://www.codewars.com/users/Sttokweex" target="_blank">Перейти в профиль Codewars →</a>
   </p>
 
 </details>
+
 
 ---
 
