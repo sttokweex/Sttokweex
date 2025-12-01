@@ -56,8 +56,8 @@ Frontend-разработчик с **3 годами опыта**, фокусир
 
 <details>
   <summary>
-    <b>📊 GitHub Dashboard</b>
-    <img src="https://raw.githubusercontent.com/KernelPanicBlog/animated-icons/main/arrow-down-animated.svg" width="22" style="vertical-align: middle; margin-left: 4px;" />
+    <b>📊 GitHub stats</b>
+
   </summary>
 
   <br>
