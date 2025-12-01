@@ -1,51 +1,76 @@
-# 👋 Привет! Я Кирилл — Frontend Developer
+<!-- === PROFILE HEADER === -->
+<h1 align="center">👋 Привет! Я Кирилл — Frontend Developer</h1>
 
-Добро пожаловать в мой GitHub!  
-У меня **3 года опыта в разработке интерфейсов**, и я обожаю создавать удобные, быстрые и масштабируемые веб-приложения.
+<p align="center">
+  <strong>3 года опыта разработки интерфейсов • React • TypeScript • Архитектура • UI/UX </strong>
+</p>
 
-## 🚀 Обо мне
-- 💻 Специализируюсь на **Frontend-разработке**
-- ⚛️ Основной стек: **React, TypeScript, Redux**
-- 🧩 Люблю прорабатывать архитектуру, оптимизировать рендер и следить за UX
-- 🛠 Работаю с современными инструментами и практиками разработки
-- 📈 Нравится развивать продукт, предлагать идеи и улучшения
-
-## 🧰 Технологии и инструменты
-Вот то, с чем я работаю в реальных проектах:
-
-### **Frontend**
-- React / React Hooks  
-- TypeScript  
-- Redux Toolkit / MobX  
-- React Query / SWR  
-- Next.js  
-- Zustand  
-- React Router  
-- Axios / Fetch  
-- Webpack / Vite  
-- TailwindCSS / SCSS / Styled Components  
-- ESLint / Prettier  
-
-### **Архитектура и практики**
-- Feature-Sliced Design (FSD)  
-- Clean Architecture подходы  
-- модульное и интеграционное тестирование (Jest, React Testing Library)
-
-### **Backend & смежные вещи**
-- Node.js (Express / NestJS — базовый уровень)  
-- REST API  
-- Docker (на уровне сборки dev окружения)  
-- Git / CI/CD  
-
-## 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sttokweex&show_icons=true&theme=tokyonight)
-
-## 📬 Контакты
-Если хочешь обсудить проект, сотрудничество или просто пообщаться — всегда рад!
-
-- ✉️ Email: **karikovks@yandex.ru**  
-- 💬 Telegram: **[@Sttokweex](https://t.me/Sttokweex)**
+<p align="center">
+  <a href="https://t.me/Sttokweex"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:karikovks@yandex.ru"><img src="https://img.shields.io/badge/Email-FF4F4F?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-Спасибо, что заглянул! 😊
+<!-- === ABOUT === -->
+
+## 🚀 Обо мне
+Я занимаюсь frontend-разработкой уже **3 года**. Предпочитаю создавать быстрые, масштабируемые и удобные интерфейсы.  
+Люблю продумывать архитектуру, оптимизировать рендеринг и улучшать качество кода.
+
+---
+
+<!-- === MINI ICONS TECH === -->
+
+## 🧰 Стек и технологии
+
+### ⭐ Основной стек
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,mobx,nextjs,vite" />
+</p>
+
+### 🎨 UI / Стили / Анимации
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,scss,styledcomponents" />
+</p>
+
+### 🛠 Инструменты и экосистема
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=webpack,git,eslint,prettier,jest" />
+</p>
+
+### 🌐 Backend & DevOps (базово)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+</p>
+
+---
+
+<!-- === GITHUB STATS === -->
+
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sttokweex&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sttokweex&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sttokweex&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- === CONTACT === -->
+
+## 📬 Контакты
+Если хочешь обсудить проект, коллаборацию или пообщаться — пиши!
+
+**📨 Email:** karikovks@yandex.ru  
+**💬 Telegram:** [@Sttokweex](https://t.me/Sttokweex)
+
+---
+
+<p align="center">
+  <i>Спасибо, что заглянул в мой профиль! 🚀</i>
+</p>
