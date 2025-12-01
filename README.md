@@ -106,7 +106,7 @@ Frontend-разработчик с **3 годами опыта**, фокусир
 
   <p align="center">
     <!-- Основная большая карточка -->
-    <img src="https://www.codewars.com/users/Sttokweex/badges/large" />
+    <img src="[https://www.codewars.com/users/Sttokweex/badges/large](https://www.codewars.com/users/sttokweex/badges/large)" />
   </p>
 
 
