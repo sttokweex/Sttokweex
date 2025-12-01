@@ -31,7 +31,7 @@ Frontend-разработчик с **3 годами опыта**, фокусир
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </p>
 
-### 🧩 State-менеджмент (иконок нет — добавлены стильные бейджи)
+### 🧩 State-менеджмент 
 <p align="left">
   <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white" />
