@@ -56,7 +56,7 @@ I enjoy clean architecture, thoughtful UX, and modern tech stacks.
 
 <details>
   <summary>
-    <b>📊 GitHub stats</b>
+    <b>📊 GitHub Stats</b>
   </summary>
 
   <br>
